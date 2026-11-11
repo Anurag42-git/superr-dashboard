@@ -152,7 +152,8 @@ superr-dashboard/
 ├── results/
 │   ├── top10_submission.csv       # the two ranked lists, as entered on Unstop
 │   ├── bat_ratings_all_eligible.csv
-│   └── bowl_ratings_all_eligible.csv
+│   ├── bowl_ratings_all_eligible.csv
+│   └── data.json                    # payload embedded in the dashboard
 ├── code/
 │   └── superr_pipeline.py         # full pipeline, stage by stage
 └── data/raw/                      # the six supplied CSVs (git-ignored)
