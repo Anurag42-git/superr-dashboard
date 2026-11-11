@@ -1,0 +1,46 @@
+rank,pid,name,team,country,score,rating,consist,hp_balls,p_top10,rank_lo,rank_hi
+1,6396,Tim David,Royal Challengers Bengaluru,Australia,2.448,24.95,69.0,363,98,1,8
+2,1699,Suryakumar Yadav,Mumbai Indians,India,1.765,19.14,69.6,315,90,1,14
+3,1318,Andre Russell,Kolkata Knight Riders,West Indies,1.704,19.17,68.2,251,75,1,27
+4,4260,Heinrich Klaasen,Sunrisers Hyderabad,South Africa,1.497,19.42,63.0,320,87,1,15
+5,4986,Rovman Powell,Kolkata Knight Riders,West Indies,1.242,16.63,64.9,508,70,2,23
+6,813,Jos Buttler,Gujarat Titans,England,1.131,15.05,66.7,186,72,2,20
+7,3125,Nicholas Pooran,Lucknow Super Giants,West Indies,1.049,15.93,62.5,322,62,2,23
+8,4708,Rinku Singh,Kolkata Knight Riders,India,0.889,16.08,58.6,386,52,2,30
+9,3647,Shreyas Iyer,Punjab Kings,India,0.85,14.83,61.1,227,56,2,27
+10,7897,Namboori Tilak Varma,Mumbai Indians,India,0.609,11.46,64.9,545,30,4,31
+11,37052,Naman Dhir,Mumbai Indians,India,0.562,9.63,68.8,141,29,5,34
+12,1077,David Miller,Delhi Capitals,South Africa,0.487,13.68,56.2,381,26,3,35
+13,4106,Daryl Mitchell,Chennai Super Kings,New Zealand,0.336,10.64,61.1,191,11,8,38
+14,20702,Tristan Stubbs,Delhi Capitals,South Africa,0.31,11.9,57.1,372,24,6,33
+15,2258,Sanju Samson,Chennai Super Kings,India,0.228,9.23,62.5,147,10,8,39
+16,3330,Hardik Pandya,Mumbai Indians,India,0.194,11.29,56.2,420,22,5,34
+17,2984,Sikandar Raza,Punjab Kings,Zimbabwe,0.149,9.52,60.0,309,21,4,39
+18,4391,Liam Livingstone,Sunrisers Hyderabad,England,0.115,9.24,60.0,235,10,7,40
+19,3782,M Shahrukh Khan,Gujarat Titans,,0.034,9.98,56.2,139,12,7,41
+20,2756,Shashank Singh,Punjab Kings,,0.002,9.1,57.9,214,17,5,42
+21,6676,Azmatullah Omarzai,Punjab Kings,Afghanistan,-0.047,5.43,66.7,267,10,7,44
+22,7544,Venkatesh Iyer,Royal Challengers Bengaluru,India,-0.083,9.29,55.6,173,14,6,40
+23,4823,Washington Sundar,Gujarat Titans,India,-0.097,6.8,61.9,245,9,9,42
+24,1107,Mohammad Nabi,Mumbai Indians,Afghanistan,-0.101,9.52,54.5,288,10,7,40
+25,2436,Dasun Shanaka,Rajasthan Royals,Sri Lanka,-0.123,9.7,53.6,345,14,5,44
+26,4755,Shivam Dube,Chennai Super Kings,India,-0.209,9.68,51.7,352,5,11,40
+27,6423,Riyan Parag,Rajasthan Royals,India,-0.214,9.48,52.2,308,9,8,40
+28,953,Lokesh Rahul,Delhi Capitals,India,-0.219,10.24,50.0,170,11,7,38
+29,2876,Axar Patel,Delhi Capitals,India,-0.263,8.02,55.0,553,5,11,39
+30,3916,Jitesh Sharma,Royal Challengers Bengaluru,India,-0.313,6.53,57.9,220,6,9,41
+31,4101,Mitchell Santner,Mumbai Indians,New Zealand,-0.433,4.77,60.0,223,8,9,43
+32,7260,Dhruv Jurel,Rajasthan Royals,India,-0.51,6.0,55.0,268,3,12,42
+33,152,Ravindra Jadeja,Rajasthan Royals,India,-0.518,5.99,54.8,443,1,14,42
+34,2463,Ryan Burl,Zimbabwe,Zimbabwe,-0.631,5.99,52.4,281,3,12,43
+35,4904,Kamindu Mendis,Sunrisers Hyderabad,Sri Lanka,-0.675,8.85,43.8,129,1,16,42
+36,2639,Marcus Stoinis,Punjab Kings,Australia,-0.686,6.43,50.0,302,5,10,43
+37,6460,Ayush Badoni,Lucknow Super Giants,,-0.768,5.01,52.0,321,2,13,44
+38,6725,Sherfane Rutherford,Mumbai Indians,West Indies,-0.778,6.57,47.6,306,5,10,43
+39,1596,Moeen Ali,Kolkata Knight Riders,England,-0.828,6.37,47.1,147,2,13,42
+40,3297,Shimron Hetmyer,Rajasthan Royals,West Indies,-0.981,6.42,43.6,438,1,18,43
+41,3056,Iftikhar Ahmed,Pakistan,Pakistan,-1.053,6.73,41.2,144,2,17,44
+42,305,Ravichandran Ashwin,Chennai Super Kings,India,-1.231,1.0,52.6,156,1,20,45
+43,4409,Sam Curran,Rajasthan Royals,England,-1.31,0.36,52.6,244,0,26,45
+44,2877,Vijay Shankar,Chennai Super Kings,,-1.72,2.66,37.5,128,2,15,45
+45,4219,Krunal Pandya,Royal Challengers Bengaluru,,-1.812,-1.78,47.4,188,0,33,45

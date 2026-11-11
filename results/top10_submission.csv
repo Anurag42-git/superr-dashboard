@@ -1,0 +1,21 @@
+category,rank,name,team,score,rating,consist,hp_balls,p_top10
+Batter,1,Tim David,Royal Challengers Bengaluru,2.448,24.95,69.0,363,98
+Batter,2,Suryakumar Yadav,Mumbai Indians,1.765,19.14,69.6,315,90
+Batter,3,Andre Russell,Kolkata Knight Riders,1.704,19.17,68.2,251,75
+Batter,4,Heinrich Klaasen,Sunrisers Hyderabad,1.497,19.42,63.0,320,87
+Batter,5,Rovman Powell,Kolkata Knight Riders,1.242,16.63,64.9,508,70
+Batter,6,Jos Buttler,Gujarat Titans,1.131,15.05,66.7,186,72
+Batter,7,Nicholas Pooran,Lucknow Super Giants,1.049,15.93,62.5,322,62
+Batter,8,Rinku Singh,Kolkata Knight Riders,0.889,16.08,58.6,386,52
+Batter,9,Shreyas Iyer,Punjab Kings,0.85,14.83,61.1,227,56
+Batter,10,Namboori Tilak Varma,Mumbai Indians,0.609,11.46,64.9,545,30
+Bowler,1,Matheesha Pathirana,Kolkata Knight Riders,3.179,16.98,75.0,497,94
+Bowler,2,Jasprit Bumrah,Mumbai Indians,2.234,14.55,60.9,443,71
+Bowler,3,Mustafizur Rahman,Kolkata Knight Riders,1.993,11.81,65.8,434,63
+Bowler,4,Sunil Narine,Kolkata Knight Riders,1.888,11.62,63.9,361,58
+Bowler,5,Varun Chakravarthy,Kolkata Knight Riders,1.716,10.6,63.6,593,65
+Bowler,6,Shaheen Afridi,Pakistan,1.452,8.93,63.6,264,36
+Bowler,7,Abrar Ahmed,Pakistan,1.452,6.98,71.4,269,40
+Bowler,8,Sufiyan Muqeem,Pakistan,1.381,7.2,68.8,151,45
+Bowler,9,Kuldeep Yadav,Delhi Capitals,1.324,9.29,59.0,454,36
+Bowler,10,Noor Ahmad,Chennai Super Kings,1.294,12.04,47.2,399,38

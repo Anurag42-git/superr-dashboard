@@ -1,0 +1,7 @@
+# Raw competition data is not tracked
+*.csv.raw
+data/
+ball_by_ball.csv
+matches.csv
+playing_eleven.csv
+.DS_Store

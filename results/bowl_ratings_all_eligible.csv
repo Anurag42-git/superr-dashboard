@@ -1,0 +1,109 @@
+rank,pid,name,team,country,score,rating,consist,hp_balls,p_top10,rank_lo,rank_hi
+1,8661,Matheesha Pathirana,Kolkata Knight Riders,Sri Lanka,3.179,16.98,75.0,497,94,1,11
+2,2933,Jasprit Bumrah,Mumbai Indians,India,2.234,14.55,60.9,443,71,1,29
+3,4373,Mustafizur Rahman,Kolkata Knight Riders,Bangladesh,1.993,11.81,65.8,434,63,1,34
+4,781,Sunil Narine,Kolkata Knight Riders,,1.888,11.62,63.9,361,58,2,34
+5,6256,Varun Chakravarthy,Kolkata Knight Riders,India,1.716,10.6,63.6,593,65,2,30
+6,6355,Shaheen Afridi,Pakistan,Pakistan,1.452,8.93,63.6,264,36,3,50
+7,5979,Abrar Ahmed,Pakistan,Pakistan,1.452,6.98,71.4,269,40,3,41
+8,34485,Sufiyan Muqeem,Pakistan,Pakistan,1.381,7.2,68.8,151,45,1,78
+9,3644,Kuldeep Yadav,Delhi Capitals,India,1.324,9.29,59.0,454,36,3,55
+10,7967,Noor Ahmad,Chennai Super Kings,Afghanistan,1.294,12.04,47.2,399,38,2,52
+11,3298,Jofra Archer,Rajasthan Royals,England,1.209,7.23,64.3,198,31,3,56
+12,2382,Jamie Overton,Chennai Super Kings,England,1.175,5.59,70.0,173,33,3,61
+13,5809,Naveen ul Haq,Lucknow Super Giants,Afghanistan,1.019,9.07,52.2,230,17,5,63
+14,829,Mitchell Starc,Delhi Capitals,Australia,0.963,6.28,61.9,131,26,3,62
+15,6523,Blessing Muzarabani,Kolkata Knight Riders,Zimbabwe,0.922,7.37,56.5,153,18,4,70
+16,2633,Jason Holder,Gujarat Titans,West Indies,0.791,6.47,56.8,448,14,6,68
+17,2261,Harshal Patel,Sunrisers Hyderabad,India,0.775,7.2,53.5,525,18,5,72
+18,4489,Prasidh Krishna,Gujarat Titans,India,0.735,6.26,56.2,290,11,6,75
+19,2490,Mohammad Nawaz,Pakistan,Pakistan,0.715,4.81,61.5,202,10,7,71
+20,830,Josh Hazlewood,Royal Challengers Bengaluru,Australia,0.715,7.0,52.8,327,15,6,71
+21,4692,Lockie Ferguson,Punjab Kings,New Zealand,0.714,5.01,60.7,244,17,5,72
+22,2417,Akeal Hosein,Chennai Super Kings,West Indies,0.714,3.81,65.5,222,3,13,75
+23,4874,Richard Ngarava,Zimbabwe,Zimbabwe,0.702,3.81,65.2,187,14,7,61
+24,7364,Haris Rauf,Pakistan,Pakistan,0.682,6.75,52.9,311,9,5,79
+25,3628,Kagiso Rabada,Gujarat Titans,South Africa,0.665,5.46,57.7,235,11,5,85
+26,1612,Yuzvendra Chahal,Punjab Kings,India,0.655,6.83,51.9,582,10,7,82
+27,6464,Arshdeep Singh,Punjab Kings,India,0.615,6.91,50.6,805,12,6,73
+28,19316,Maheesh Theekshana,Rajasthan Royals,Sri Lanka,0.606,5.55,55.8,419,4,12,73
+29,3276,Gudakesh Motie,West Indies,West Indies,0.569,2.6,66.7,194,9,8,92
+30,360,Bhuvneshwar Kumar,Royal Challengers Bengaluru,India,0.532,5.77,53.1,462,12,6,82
+31,4219,Krunal Pandya,Royal Challengers Bengaluru,,0.501,5.51,53.3,254,10,7,76
+32,6450,Mujeeb Ur Rahman,Mumbai Indians,Afghanistan,0.489,5.72,52.2,155,7,9,74
+33,2636,Adam Zampa,Sunrisers Hyderabad,Australia,0.371,2.12,63.6,296,7,10,79
+34,2681,Taskin Ahmed,Bangladesh,Bangladesh,0.35,4.61,53.1,275,3,12,79
+35,4900,Wanindu Hasaranga,Lucknow Super Giants,Sri Lanka,0.345,5.36,50.0,441,7,8,86
+36,5944,Mohammed Siraj,Gujarat Titans,India,0.341,4.68,52.6,288,4,11,82
+37,278,Tim Southee,Kolkata Knight Riders,New Zealand,0.332,5.78,48.0,211,6,9,82
+38,4722,Rashid Khan,Gujarat Titans,Afghanistan,0.33,4.49,53.1,704,8,8,88
+39,7920,Nathan Ellis,Chennai Super Kings,Australia,0.323,5.22,50.0,323,5,10,86
+40,2399,Dushmantha Chameera,Delhi Capitals,Sri Lanka,0.294,4.14,53.6,245,11,7,89
+41,7327,Rasikh Salam,Royal Challengers Bengaluru,,0.256,5.46,47.4,169,10,5,96
+42,2411,Sandeep Sharma,Rajasthan Royals,,0.245,5.16,48.3,230,6,9,90
+43,6806,Tushar Deshpande,Rajasthan Royals,India,0.241,3.87,53.3,275,1,15,89
+44,39657,Eshan Malinga,Sunrisers Hyderabad,Sri Lanka,0.234,4.66,50.0,192,3,12,91
+45,6161,Rahul Chahar,Chennai Super Kings,,0.216,3.5,54.2,190,8,8,91
+46,5379,Mark Adair,Ireland,Ireland,0.141,4.61,47.8,200,1,19,87
+47,4101,Mitchell Santner,Mumbai Indians,New Zealand,0.078,1.59,58.3,355,1,19,90
+48,5441,Barry McCarthy,Ireland,Ireland,0.049,2.24,55.0,154,4,16,95
+49,38855,Mohammad Saifuddin,Bangladesh,Bangladesh,0.045,3.47,50.0,120,4,11,98
+50,1758,Patrick Cummins,Sunrisers Hyderabad,Australia,0.022,3.82,48.0,243,2,14,94
+51,4807,Joshua Little,Gujarat Titans,Ireland,0.018,3.84,47.8,163,2,16,97
+52,4265,T Natarajan,Delhi Capitals,,-0.021,2.09,53.8,282,4,11,94
+53,2878,Mohit Sharma,Delhi Capitals,,-0.024,2.49,52.2,245,6,10,100
+54,1566,Mohammed Shami,Lucknow Super Giants,India,-0.037,2.48,51.9,181,1,19,95
+55,7690,Saim Ayub,Pakistan,Pakistan,-0.042,3.58,47.4,150,2,22,94
+56,1318,Andre Russell,Kolkata Knight Riders,West Indies,-0.05,3.91,45.8,227,5,9,98
+57,1487,Adam Milne,Rajasthan Royals,New Zealand,-0.127,1.72,52.6,129,8,8,101
+58,2847,Shardul Thakur,Mumbai Indians,India,-0.133,1.45,53.6,277,1,21,96
+59,7240,FazalHaq Farooqi,Rajasthan Royals,Afghanistan,-0.143,2.71,48.3,233,0,21,98
+60,5837,Mahedi Hasan,Bangladesh,Bangladesh,-0.225,3.97,41.2,126,1,21,89
+61,2984,Sikandar Raza,Punjab Kings,Zimbabwe,-0.265,3.82,40.7,283,2,18,96
+62,3275,Alzarri Joseph,Royal Challengers Bengaluru,West Indies,-0.291,1.35,50.0,249,0,19,98
+63,8746,Vaibhav Arora,Kolkata Knight Riders,,-0.328,1.11,50.0,150,1,22,99
+64,2320,Trent Boult,Mumbai Indians,New Zealand,-0.331,2.48,44.4,299,1,25,98
+65,4823,Washington Sundar,Gujarat Titans,India,-0.348,2.12,45.5,158,2,16,100
+66,22920,Jacob Duffy,Royal Challengers Bengaluru,New Zealand,-0.357,3.43,40.0,194,4,13,105
+67,305,Ravichandran Ashwin,Chennai Super Kings,India,-0.357,1.83,46.4,276,0,28,95
+68,4837,Obed McCoy,Rajasthan Royals,West Indies,-0.394,4.2,36.0,241,2,18,104
+69,786,Chris Jordan,Mumbai Indians,England,-0.407,-0.12,52.9,129,0,21,101
+70,2876,Axar Patel,Delhi Capitals,India,-0.421,-0.02,52.2,475,0,24,102
+71,58246,Prince Yadav,Lucknow Super Giants,India,-0.428,2.69,41.2,137,1,21,98
+72,3653,Avesh Khan,Lucknow Super Giants,India,-0.433,1.54,45.7,485,0,28,101
+73,7322,Yash Dayal,Royal Challengers Bengaluru,India,-0.449,0.35,50.0,208,1,21,101
+74,3323,Jimmy Neesham,Rajasthan Royals,New Zealand,-0.472,0.94,47.1,132,1,19,104
+75,7808,Marco Jansen,Punjab Kings,South Africa,-0.477,0.18,50.0,221,1,29,102
+76,2639,Marcus Stoinis,Punjab Kings,Australia,-0.484,-0.27,51.6,242,0,24,102
+77,4926,Shadab Khan,Pakistan,Pakistan,-0.504,-0.59,52.4,181,0,33,102
+78,4641,Lungi Ngidi,Delhi Capitals,South Africa,-0.514,1.57,43.5,174,0,22,101
+79,29888,Harshit Rana,Kolkata Knight Riders,India,-0.57,1.6,41.9,267,1,31,101
+80,479,Adil Rashid,Sunrisers Hyderabad,England,-0.572,-0.02,48.4,267,0,31,102
+81,8049,Naseem Shah,Pakistan,Pakistan,-0.586,0.14,47.4,152,0,25,102
+82,4391,Liam Livingstone,Sunrisers Hyderabad,England,-0.601,-0.61,50.0,121,2,20,105
+83,7905,Tanzim Sakib,Bangladesh,Bangladesh,-0.611,1.83,40.0,193,1,33,102
+84,5939,Cameron Green,Kolkata Knight Riders,Australia,-0.62,-0.23,48.0,197,0,35,103
+85,6676,Azmatullah Omarzai,Punjab Kings,Afghanistan,-0.667,0.76,42.9,199,0,44,100
+86,6287,Yash Thakur,Punjab Kings,India,-0.7,-0.5,47.1,137,0,33,104
+87,152,Ravindra Jadeja,Rajasthan Royals,India,-0.703,0.64,42.4,302,0,37,105
+88,6512,Michael Bracewell,Royal Challengers Bengaluru,New Zealand,-0.812,1.74,35.3,152,0,28,105
+89,3330,Hardik Pandya,Mumbai Indians,India,-0.829,-0.26,42.9,372,0,38,105
+90,4816,Khaleel Ahmed,Chennai Super Kings,India,-0.862,-0.33,42.3,188,0,45,105
+91,2526,Ish Sodhi,New Zealand,New Zealand,-0.889,-0.11,40.7,261,0,36,104
+92,1596,Moeen Ali,Kolkata Knight Riders,England,-0.901,0.79,36.8,134,0,33,105
+93,5041,Mukesh Kumar,Delhi Capitals,India,-0.908,0.79,36.7,309,0,35,106
+94,8380,Mohammad Rishad Hossain,Bangladesh,Bangladesh,-0.916,-4.16,56.2,308,0,33,107
+95,19312,Nuwan Thushara,Royal Challengers Bengaluru,Sri Lanka,-0.954,0.14,38.1,153,0,47,106
+96,8221,Nitish Reddy,Sunrisers Hyderabad,India,-1.056,-1.97,44.0,181,0,41,106
+97,27960,Mayank Yadav,Lucknow Super Giants,India,-1.073,-0.81,38.9,127,0,39,106
+98,2436,Dasun Shanaka,Rajasthan Royals,Sri Lanka,-1.127,0.24,33.3,120,0,57,104
+99,7503,Ravi Bishnoi,Rajasthan Royals,India,-1.13,-3.19,47.0,745,0,45,106
+100,1107,Mohammad Nabi,Mumbai Indians,Afghanistan,-1.202,-1.42,38.1,197,0,39,108
+101,4755,Shivam Dube,Chennai Super Kings,India,-1.216,-0.32,33.3,185,0,33,108
+102,2315,Reece Topley,Mumbai Indians,England,-1.256,-1.76,38.1,138,0,46,106
+103,7344,Shoriful Islam,Bangladesh,Bangladesh,-1.303,-2.06,38.1,150,0,59,106
+104,6726,Romario Shepherd,Royal Challengers Bengaluru,West Indies,-1.459,-4.15,42.5,456,0,63,108
+105,36982,Suyash Sharma,Royal Challengers Bengaluru,,-1.541,-5.03,44.0,236,0,60,108
+106,7270,Anrich Nortje,Lucknow Super Giants,South Africa,-1.622,-4.77,40.9,188,0,63,108
+107,6281,Abhishek Sharma,Sunrisers Hyderabad,India,-1.908,-7.47,44.4,144,0,73,108
+108,4409,Sam Curran,Rajasthan Royals,England,-1.952,-6.19,38.2,313,0,73,108
