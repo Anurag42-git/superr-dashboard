@@ -4,4 +4,16 @@ data/
 ball_by_ball.csv
 matches.csv
 playing_eleven.csv
+
+# Pipeline intermediates
+*.pkl
+__pycache__/
+*.py[cod]
+
+# OS
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+

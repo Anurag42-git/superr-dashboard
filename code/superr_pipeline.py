@@ -7,7 +7,8 @@ import pandas as pd, numpy as np, warnings; warnings.filterwarnings('ignore')
 from sklearn.ensemble import HistGradientBoostingClassifier
 from sklearn.model_selection import GroupKFold
 from sklearn.metrics import roc_auc_score, brier_score_loss
-U='/mnt/user-data/uploads/'
+import os; os.makedirs('results', exist_ok=True)
+U='data/raw/'
 b=pd.read_csv(U+'ball_by_ball.csv',low_memory=False)
 m=pd.read_csv(U+'matches.csv'); c=pd.read_csv(U+'competitions.csv')
 b=b.merge(m[['match_id','comp_id','match_date','win_team_id','result','first_inn_revised_overs','second_inn_revised_overs','revised_target','venue_id']],on='match_id').merge(c[['comp_id','comp_name','match_format','season']],on='comp_id')
@@ -140,7 +141,7 @@ b.to_pickle('balls3.pkl'); print(t50,t75)
 
 # ======== s3_rate.py ========
 import pandas as pd, numpy as np, json, warnings; warnings.filterwarnings('ignore')
-U='/mnt/user-data/uploads/'
+U='data/raw/'
 b=pd.read_pickle('balls3.pkl')
 teams=pd.read_csv(U+'teams.csv')[['team_id','team_name']].drop_duplicates('team_id').set_index('team_id').team_name
 full={'India','Australia','England','South Africa','New Zealand','Pakistan','Sri Lanka','West Indies','Bangladesh','Afghanistan','Ireland','Zimbabwe'}
@@ -231,7 +232,7 @@ for kind,d in (('bat',bat),('bowl',bow)):
 # ======== s8_final.py ========
 import pandas as pd, numpy as np, pickle, json, warnings; warnings.filterwarnings('ignore')
 from scipy.stats import spearmanr
-U='/mnt/user-data/uploads/'
+U='data/raw/'
 b=pd.read_pickle('balls4.pkl'); bat=pd.read_pickle('bat2.pkl'); bow=pd.read_pickle('bow2.pkl')
 A_C=3; WTS=(.65,.0,.35)
 def tables(d,hpm,odm):
@@ -310,7 +311,7 @@ pickle.dump(out,open('final2.pkl','wb'))
 
 # ======== s9_export.py ========
 import pandas as pd, numpy as np, pickle, json, warnings; warnings.filterwarnings('ignore')
-U='/mnt/user-data/uploads/'
+U='data/raw/'
 F=pickle.load(open('final2.pkl','rb')); b=pd.read_pickle('balls4.pkl'); bat=pd.read_pickle('bat2.pkl'); bow=pd.read_pickle('bow2.pkl')
 mp=pd.read_csv(U+'competition_team_player_mapping.csv'); comps=pd.read_csv(U+'competitions.csv')
 mp=mp.merge(comps[['comp_id','match_format','season']],on='comp_id'); mp['yr']=mp.season.astype(str).str[:4].astype(int)
@@ -355,9 +356,9 @@ meta=dict(matches=int(b.match_id.nunique()),balls=int(len(b)),ipl_matches=int(b[
   auc1=0.683,auc2=0.889,n_elig_bat=F['bat']['n_elig'],n_elig_bowl=F['bowl']['n_elig'],
   rel_bat=round(F['bat']['rel'],2),rel_bowl=round(F['bowl']['rel'],2),sens_bat=F['bat']['sens'],sens_bowl=F['bowl']['sens'],
   k_bat=round(F['bat']['fx']['k']),k_bowl=round(F['bowl']['fx']['k']))
-json.dump(dict(bat=out['bat'],bowl=out['bowl'],ev=ev,hpover={str(k):v for k,v in hpover.to_dict().items()},dec=dec.reset_index().to_dict('list'),meta=meta),open('data.json','w'))
+json.dump(dict(bat=out['bat'],bowl=out['bowl'],ev=ev,hpover={str(k):v for k,v in hpover.to_dict().items()},dec=dec.reset_index().to_dict('list'),meta=meta),open('results/data.json','w'))
 for k in ('bat','bowl'):
-    pd.DataFrame(out[k]).drop(columns=['press','ordn']).to_csv(f'/mnt/user-data/outputs/{k}_ratings_all_eligible.csv',index=False)
+    pd.DataFrame(out[k]).drop(columns=['press','ordn']).to_csv(f'results/{k}_ratings_all_eligible.csv',index=False)
 top=pd.concat([pd.DataFrame(out['bat'][:10]).assign(category='Batter'),pd.DataFrame(out['bowl'][:10]).assign(category='Bowler')])[['category','rank','name','team','score','rating','consist','hp_balls','p_top10']]
-top.to_csv('/mnt/user-data/outputs/top10_submission.csv',index=False)
+top.to_csv('results/top10_submission.csv',index=False)
 print(meta)
